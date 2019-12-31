@@ -1,7 +1,7 @@
 ## Welcome to My Blog
 Hi everyone.I'm Lakvindu and this site will be the place where I'll put everything I want to share with you guys.So look forward to it.
 
-###Bit About Me
+### Bit About Me
 I'm currently a student in grade 12, which is equalant to High school 1st or 2nd year.I have many things I'm interested in.So the things I'll post be of various types.  
 
 ```markdown
