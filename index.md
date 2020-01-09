@@ -4,7 +4,22 @@ Hi everyone.I'm Lakvindu and this site will be the place where I'll put everythi
 ### Bit About Me
 I'm currently a student in grade 12, which is equalant to High school 1st or 2nd year.I have many things I'm interested in.So the things I'll post be of various types.  
 I think you should use an
-`<addr>` element here instead.
+`<Is this code?>` element here instead.
+
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 ```markdown
 Syntax highlighted code block
 
