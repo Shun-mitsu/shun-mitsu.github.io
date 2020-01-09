@@ -3,7 +3,8 @@ Hi everyone.I'm Lakvindu and this site will be the place where I'll put everythi
 
 ### Bit About Me
 I'm currently a student in grade 12, which is equalant to High school 1st or 2nd year.I have many things I'm interested in.So the things I'll post be of various types.  
-
+I think you should use an
+`<addr>` element here instead.
 ```markdown
 Syntax highlighted code block
 
