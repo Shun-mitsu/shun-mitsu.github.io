@@ -15,7 +15,7 @@ jobs:
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
         jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
     - name: Setup Ruby for use with actions
-     uses: actions/setup-ruby@v1.0.0
-     with:
-     # Version range or exact version of a Ruby version to use.
-     version: # optional, default is >= 2.4
+      uses: actions/setup-ruby@v1.0.0
+      with:
+      # Version range or exact version of a Ruby version to use.
+      version: # optional, default is >= 2.4
