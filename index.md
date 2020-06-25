@@ -1,3 +1,4 @@
+import try.html
 ## Welcome to My Blog
 Hi everyone.I'm Lakvindu and this site will be the place where I'll put everything I want to share with you guys.So look forward to it.
 
